@@ -1,2 +1,2 @@
-# khumbusystems.github.io
+# mindzgrouptech.github.io
 to host public assets
